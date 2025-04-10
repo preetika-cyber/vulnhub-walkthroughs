@@ -1,5 +1,3 @@
-# vulnhub-walkthroughs
-Walkthroughs for VulnHub machines covering enumeration, exploitation, and privilege escalation. 
 # 🛡️ VulnHub Walkthroughs by preetika-cyber
 
 Welcome to my collection of VulnHub CTF walkthroughs. These writeups showcase my practical skills in penetration testing, including enumeration, exploitation, privilege escalation, and post-exploitation.
