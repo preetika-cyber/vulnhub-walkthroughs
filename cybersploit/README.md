@@ -52,6 +52,7 @@ Port 22: OpenSSH
 Port 80: Apache HTTP Server
 
 ![Nmap scan result](screenshots/Screenshot01.png)
+
 ![View-source showing username](screenshots/Screenshot02.png)
 
 ## 🧭 Enumeration
