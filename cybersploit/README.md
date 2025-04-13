@@ -12,6 +12,12 @@
 
 This walkthrough documents the exploitation of the *Cybersploit-CTF* machine on VulnHub. The objective was to escalate privileges from a basic user to root and capture three hidden flags. The attack was carried out using Kali Linux as the attacker machine.
 
+⚠️ Disclaimer
+I am using VMware Workstation to run the downloaded vulnerable machine (Cybersploit) and Kali Linux as the attacking machine for this Capture The Flag (CTF) challenge.
+
+🛡️ All techniques demonstrated in this walkthrough are intended solely for educational and ethical purposes. This is part of my effort to practice and enhance cybersecurity skills in a controlled, legal environment.
+
+❗Please do not attempt these techniques on any system without explicit permission.
 ---
 
 ## 🛠️ Tools Used
