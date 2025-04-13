@@ -11,6 +11,7 @@ Each walkthrough is a step-by-step report based on real-world simulated environm
 | Machine | Difficulty | Techniques Used  | Link  |
 |---------|------------|------------------|-------|
 | Cybersploit | Easy | Enumeration, RCE, SUID PrivEsc | [View Walkthrough](./cybersploit/README.md) |
+| Deathnote | Easy | Network Scanning, WP Enum, Brute Force, Stego, PrivEsc | [View Walkthrough](./Deathnote/README.md) |
 
 ---
 
