@@ -1,4 +1,12 @@
-# Death Note VulnHub Walkthrough
+# 🛡️ VulnHub Walkthrough: Deathnote
+
+> **Author**: [Preetika (@preetika-cyber)]  
+> **Machine**: Deathnote: 1  
+> **Platform**: VulnHub  
+> **Difficulty**: Easy-Medium
+> **URL**:https://www.vulnhub.com/entry/deathnote-1,739/
+
+---
 
 ## 🧠 Introduction
 
