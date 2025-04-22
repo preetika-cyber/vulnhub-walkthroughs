@@ -12,6 +12,7 @@ Each walkthrough is a step-by-step report based on real-world simulated environm
 |---------|------------|------------------|-------|
 | Cybersploit | Easy | Enumeration, RCE, SUID PrivEsc | [View Walkthrough](./cybersploit/README.md) |
 | Deathnote | Easy | Network Scanning, WP Enum, Brute Force, Stego, PrivEsc | [View Walkthrough](./Deathnote/README.md) |
+| Tr0ll 1 | Beginner   | Enumeration, FTP Analysis, SSH Brute Force, Privilege Escalation | [View Walkthrough](./tr0ll_1/README.md) |
 
 ---
 
